@@ -1,3 +1,4 @@
+#CS2-AA
 bank_balance = float(input("Enter your total bank balance: ₱"))
 
 expenses = []
